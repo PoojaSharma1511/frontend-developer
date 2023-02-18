@@ -32,12 +32,12 @@ const Project = () => {
     {
       id: 5,
       src: micro,
-      url : "https://micro-clone-sharma.netlify.app/"
+      url : "https://cloneloginpj.netlify.app/"
     },
     {
       id: 6,
       src : cal,
-      url : "https://magenta-sorbet-2b2b9e.netlify.app"
+      url : "https://vedshree-ayur.netlify.app/"
 
     },
   ];
